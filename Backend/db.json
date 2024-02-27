@@ -1,0 +1,136 @@
+{
+  "Employees": [
+    {
+      "categary": "92fb",
+      "rname": "Dominous",
+      "dname": "Pizza",
+      "price": "250",
+      "quality": "12345",
+      "description": "12345",
+      "thumbnail": "https://live.staticflickr.com/7348/13106562225_d06ed36047_b.jpg",
+      "Rating": "3",
+      "id": "1"
+    },
+    {
+      "categary": "hello",
+      "rname": "Hydrabad Hotel",
+      "dname": "Dum Biriyani",
+      "price": "700",
+      "quality": "Good",
+      "description": "1234432112",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:578/1*cDZdB_kwHJHGt_eA9qLoaw.png",
+      "Rating": "4",
+      "id": "44ab"
+    },
+    {
+      "categary": "Burger ",
+      "rname": "Burger King",
+      "dname": "Burger",
+      "price": "125",
+      "quality": "high",
+      "description": "Tasty Burger",
+      "thumbnail": "https://mrbrownbakery.com/image/images/rEyMLsj21Ooxk5mfhdeh7bSevaLGzUtczWXVDj4u.jpeg?p=full",
+      "Rating": "2",
+      "id": "e5c6"
+    },
+    {
+      "categary": "Chips",
+      "rname": "FastFood",
+      "dname": "Finger Chips",
+      "price": "25",
+      "quality": "high",
+      "description": "helllo",
+      "thumbnail": "https://www.tamingtwins.com/wp-content/uploads/2022/10/homemade-chips-7.jpg",
+      "Rating": "3",
+      "id": "f8c5"
+    },
+    {
+      "categary": "Food",
+      "rname": "KFC",
+      "dname": "KFC Bucket",
+      "price": "350",
+      "quality": "High",
+      "description": "Kfc chicken",
+      "thumbnail": "https://content.jdmagicbox.com/comp/bangalore/l9/080pxx80.xx80.210810212532.p7l9/catalogue/kfc-kannamangala-bangalore-fried-chicken-restaurants-iosarlsqcy.jpg",
+      "Rating": "1",
+      "id": "eb11"
+    },
+    {
+      "categary": "Sea Food",
+      "rname": "Sea Food restorent",
+      "dname": "Fish Fry",
+      "price": "300",
+      "quality": "High",
+      "description": "Best Sea Food Ever",
+      "thumbnail": "https://images.unsplash.com/photo-1600699899970-b1c9fadd8f9e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Rating": "4",
+      "id": "fc93"
+    },
+    {
+      "categary": "hello",
+      "rname": "farooq",
+      "dname": "Shawarma",
+      "price": "125",
+      "quality": "high",
+      "description": "Good Shawarma",
+      "thumbnail": "https://images.unsplash.com/photo-1662116765994-1e4200c43589?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Rating": "4",
+      "id": "91a7"
+    },
+    {
+      "categary": "Chicken",
+      "rname": "Al Faham",
+      "dname": "Grilled Chicken",
+      "price": "500",
+      "quality": "Good",
+      "description": "Grill Chicken will Myoneese",
+      "thumbnail": "https://images.unsplash.com/photo-1592309102027-ca85af1d95ed?q=80&w=1891&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Rating": "5",
+      "id": "9724"
+    },
+    {
+      "id": "b171",
+      "categary": "Chicken",
+      "rname": "Chicken hotel",
+      "dname": "Kabab",
+      "price": "250",
+      "quality": "good",
+      "description": "5 pieces",
+      "thumbnail": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?q=80&w=1900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Rating": "4"
+    },
+    {
+      "id": "9f66",
+      "categary": "Cake",
+      "rname": "Cake Palace",
+      "dname": "Chocolate Cake",
+      "price": "600",
+      "quality": "Good",
+      "description": "Good Cake",
+      "thumbnail": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=1989&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Rating": "4"
+    },
+    {
+      "id": "5ca0",
+      "categary": "Mutton",
+      "rname": "Al Faham",
+      "dname": "Mutton Curry Parota",
+      "price": "400",
+      "quality": "good",
+      "description": "parota",
+      "thumbnail": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1971&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Rating": "4"
+    },
+    {
+      "id": "50a8",
+      "categary": "Curry",
+      "rname": "Royal Hotel",
+      "dname": "Chicken Curry",
+      "price": "250",
+      "quality": "Good",
+      "description": "Chicken curry",
+      "thumbnail": "https://images.unsplash.com/photo-1574653853027-5382a3d23a15?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Rating": "3"
+    }
+  ]
+}
